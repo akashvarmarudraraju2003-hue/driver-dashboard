@@ -1,0 +1,377 @@
+Driver Collection Summary																	
+Negative balance = driver owes company · Positive = payable to driver · Balances are summed from the Data sheet																	
+																	
+As-of date	2026-09-29																
+Inactive threshold (days)	3	← editable input															
+																	
+To collect (₹)			Drivers owing			Owing & inactive (₹)			Drivers called	Follow-ups due							
+₹732,562			121			₹409,032			0	0							
+Owing & inactive (drivers)			Payable to drivers (₹)			Net position (₹)			Promised to pay (₹)								
+73			₹370,006			-₹362,556			-								
+CALL LOG (orange columns K–Q): update after each call. Example → Called - promised to pay | 2026-09-29 | "Says vehicle was in garage; will pay part on Friday" | 2026-10-03 | 5000 | 2026-10-03 | Ravi																	
+																	
+Driver	User ID	Net balance (₹)	Last 7 days (₹)	Last 30 days (₹)	Last duty date	Days since duty	Paid in: cash+QR (₹)	Duty days	Status	Call status	Last call date	Driver response / call summary	Promise-to-pay date	Promised amount (₹)	Next follow-up date	Called by	Follow-up
+komagala sandeep	919553002521	-19,451	-750	-10,927	2026-09-23	6	142,053	69	Owes - inactive	Not called							
+SIDDULA  Devaraju	919618124353	-18,070	-	-	2026-07-06	85	4,300	49	Owes - inactive	Not called							
+Md Asraar	918919985167	-16,680	-	-	2026-07-05	86	4,000	45	Owes - inactive	Not called							
+Hariprasad	919110568788	-16,669	-2,765	-5,341	2026-09-29	0	20,513	83	Owes	Not called							
+kishore ponnala	919966085545	-16,455	-	-750	2026-08-31	29	3,465	42	Owes - inactive	Not called							
+karnam Sri ram	918978164650	-16,341	-	-	2026-08-18	42	14,066	33	Owes - inactive	Not called							
+Srikanth Sudagani	917285952325	-15,450	-3,431	-12,261	2026-09-29	0	55,729	42	Owes	Not called							
+praveen	919866246428	-15,351	-5,406	-11,553	2026-09-29	0	211,674	82	Owes	Not called							
+Sai ram kakarala	918341449055	-14,966	-	-11,480	2026-09-20	9	11,546	31	Owes - inactive	Not called							
+Tuljaram B	919492260887	-14,904	-1,486	-2,767	2026-09-29	0	44,733	99	Owes	Not called							
+Ganesh.J	918999510296	-14,279	-	-	2026-08-30	30	22,150	114	Owes - inactive	Not called							
+Ganapathi A	919676810191	-12,995	-	-	2026-08-12	48	3,100	66	Owes - inactive	Not called							
+nakka sridhar	918977209648	-12,853	-3,340	-5,154	2026-09-29	0	12,468	55	Owes	Not called							
+Jeripothula Narsing	918790423117	-12,220	-1,929	-7,834	2026-09-27	2	18,344	47	Owes	Not called							
+G.SHIVA	919160676202	-12,186	-1,856	-2,375	2026-09-29	0	57,723	116	Owes	Not called							
+Mohammed Qadeer	919121098252	-11,313	-1,747	-2,003	2026-09-29	0	14,011	50	Owes	Not called							
+Bharath jangile	917569965720	-11,303	-1,905	-3,942	2026-09-29	0	85,243	57	Owes	Not called							
+Ramakrishna chary	919640072180	-11,198	-	-	2026-07-19	72	34,939	39	Owes - inactive	Not called							
+Suresh.G	918500073120	-10,766	-279	-1,596	2026-09-29	0	94,778	123	Owes	Not called							
+Rakesh	919346701158	-10,585	-	-	2026-07-16	75	56,801	81	Owes - inactive	Not called							
+Raju Gaddamidhi	916304479717	-10,537	-2,772	-10,537	2026-09-29	0	16,837	20	Owes	Not called							
+Rajendra	918919345529	-10,488	-698	-1,371	2026-09-29	0	32,688	58	Owes	Not called							
+GYARA sandeep	918712131505	-9,967	-2,370	-6,887	2026-09-29	0	38,325	31	Owes	Not called							
+Sajja	918317540237	-9,865	-	-	2026-08-10	50	-	54	Owes - inactive	Not called							
+t Vijay kumar	918341131205	-9,605	-3,450	-380	2026-09-29	0	19,195	69	Owes	Not called							
+Dakuri Naveen	919059040317	-9,242	-2,196	-3,575	2026-09-29	0	12,698	82	Owes	Not called							
+m.avinash	919618145217	-8,862	-3,710	-7,510	2026-09-29	0	34,481	38	Owes	Not called							
+Chandrashekhar V	917330776377	-8,841	-265	890	2026-09-29	0	50,552	146	Owes	Not called							
+chappidi premsagar	917075718515	-8,699	-	-3,932	2026-09-13	16	19,895	33	Owes - inactive	Not called							
+MOODU Nagaraju	919866476131	-8,680	-	-6,110	2026-09-09	20	-	14	Owes - inactive	Not called							
+Kalyan Chakravarthy	917013027181	-8,516	1,083	-7,543	2026-09-29	0	39,871	43	Owes	Not called							
+Ramanam Sattibabu	919949546589	-8,442	-2,996	-8,442	2026-09-29	0	22,756	26	Owes	Not called							
+Suresh babu	918985541889	-8,264	-	-	2026-06-30	91	75,879	55	Owes - inactive	Not called							
+BALARAJU arukali	918639939055	-8,185	-2,845	-8,185	2026-09-29	0	3,200	25	Owes	Not called							
+CHANDRA SHEKAR	919390575503	-8,124	-	-	2026-05-15	137	9,047	13	Owes - inactive	Not called							
+Parmeshwar Mane	919550834485	-8,091	-	-	2026-06-29	92	28,077	20	Owes - inactive	Not called							
+SHAFIYODDINN	918374217768	-7,965	-	-	2026-07-17	74	9,850	60	Owes - inactive	Not called							
+Arbas Mohammad	919705060028	-7,870	-	-	2026-07-04	87	-	21	Owes - inactive	Not called							
+Krishna.D	919014145260	-7,838	-1,398	-5,565	2026-09-29	0	87,368	60	Owes	Not called							
+Nandagiri	919618789711	-7,345	-	-70	2026-09-16	13	4,450	70	Owes - inactive	Not called							
+Srujan Kumar	919133918852	-7,118	-	-	2026-08-19	41	14,709	32	Owes - inactive	Not called							
+Kulpagur Shiva	918466823597	-7,107	-	-7,107	2026-09-22	7	2,280	12	Owes - inactive	Not called							
+Akula Anil	917730887830	-7,078	-	-	2026-08-27	33	22,812	61	Owes - inactive	Not called							
+veeramreddy manikanta	917893528830	-7,054	-	-2,192	2026-09-21	8	40,756	85	Owes - inactive	Not called							
+Mutyam P	919381149698	-6,705	-	-	2026-08-21	39	1,220	17	Owes - inactive	Not called							
+Belida Shiva Krishan	919347465842	-6,700	-	-	2026-08-21	39	14,600	107	Owes - inactive	Not called							
+Gangadhar	919494753734	-6,689	-	-	2026-05-31	121	17,099	27	Owes - inactive	Not called							
+Vinod Ramachandra	919886639043	-6,688	-	-	2026-06-25	96	8,976	20	Owes - inactive	Not called							
+Hemanth chary	918790758128	-6,465	-	-	2026-08-14	46	-	12	Owes - inactive	Not called							
+Akkapelli Tharun	919652668152	-6,295	-	-	2026-07-17	74	23,411	23	Owes - inactive	Not called							
+NagendraBabu	919989354388	-6,173	-	-	2026-06-07	114	7,836	27	Owes - inactive	Not called							
+P MANOJ kumar	919951994461	-5,978	-	-	2026-07-12	79	43,992	60	Owes - inactive	Not called							
+Pavan Narala	918897834538	-5,727	-	-	2026-07-12	79	62,000	77	Owes - inactive	Not called							
+Ganesh Pilli	919666240385	-5,689	-	-	2026-07-19	72	11,719	27	Owes - inactive	Not called							
+Sai Kumar Chittepu	919390090466	-5,681	-452	-3,509	2026-09-29	0	237,465	156	Owes	Not called							
+Mohan 	918897004440	-5,676	-390	-1,685	2026-09-29	0	83,198	142	Owes	Not called							
+Madduru siva	919148514175	-5,483	170	555	2026-09-29	0	14,217	76	Owes	Not called							
+R santhosh	919346781099	-5,363	-	-	2026-05-13	139	6,633	17	Owes - inactive	Not called							
+Shrikant Ambesange	917028044765	-5,316	-	-	2026-08-26	34	35,015	35	Owes - inactive	Not called							
+Balraj.K	919391873761	-5,316	26	-1,443	2026-09-29	0	153,967	133	Owes	Not called							
+G ANANDA kumar	918142126593	-5,143	-2,888	-2,548	2026-09-29	0	46,813	46	Owes	Not called							
+Pranay nath Rathod	919491989963	-5,089	-	-	2026-06-11	110	18,769	19	Owes - inactive	Not called							
+Sameer MD	917997476514	-4,997	-	-1,120	2026-09-21	8	184,900	144	Owes - inactive	Not called							
+Rasheed Mohammad	916309199597	-4,912	-88	2,432	2026-09-29	0	58,955	70	Owes	Not called							
+Sarathkumar.B	919581026662	-4,867	-	-	2026-08-12	48	15,765	48	Owes - inactive	Not called							
+ABDUL	919542774623	-4,689	-	-1,311	2026-09-14	15	226,266	141	Owes - inactive	Not called							
+raj	919121700387	-4,648	1,405	9,410	2026-09-29	0	135,232	138	Owes	Not called							
+Janaki Ram	919246142292	-4,568	-1,759	-3,023	2026-09-29	0	32,632	85	Owes	Not called							
+Bhaskar Babburi	919515232833	-4,550	-	-	2026-05-14	138	3,900	13	Owes - inactive	Not called							
+Srisailam k	918465036103	-4,390	-1,565	-4,390	2026-09-29	0	2,000	29	Owes	Not called							
+SHARAVATH Vamshi	919014830167	-4,242	-	-434	2026-08-31	29	45,019	20	Owes - inactive	Not called							
+Gopala krishna V	916301268836	-4,141	-	1,639	2026-09-07	22	135,349	127	Owes - inactive	Not called							
+Venkateswara rao	919177764145	-4,001	-	-	2026-08-24	36	53,324	109	Owes - inactive	Not called							
+Faizulla Baig	919949914282	-3,925	-	-4,347	2026-09-14	15	29,915	20	Owes - inactive	Not called							
+Devara	916304158829	-3,678	-	-	2026-06-17	104	9,749	43	Owes - inactive	Not called							
+Srinivas Reddy	918328080186	-3,600	-850	-3,600	2026-09-29	0	11,165	28	Owes	Not called							
+Suryachandra ra	918790795166	-3,543	1,785	926	2026-09-29	0	151,465	156	Owes	Not called							
+Md AMER Younus	919136491627	-3,542	-2,437	-3,542	2026-09-29	0	11,848	11	Owes	Not called							
+Mohammed Younus khan	919063604475	-3,529	-3,015	-3,529	2026-09-29	0	10,572	18	Owes	Not called							
+Saikumar Gattu	918340089285	-3,510	-	-	2026-08-18	42	1,750	10	Owes - inactive	Not called							
+Faizan	919700764003	-3,460	-	-	2026-07-16	75	3,250	23	Owes - inactive	Not called							
+Akkireddi Umamahesh	919703574837	-3,269	-720	-4,028	2026-09-29	0	72,426	35	Owes	Not called							
+Afroz Mohammed	917207121993	-3,263	-	-	2026-08-05	55	14,237	15	Owes - inactive	Not called							
+Vijay kumar	919618682288	-3,169	-531	-4,751	2026-09-29	0	37,148	47	Owes	Not called							
+Jagadeeshrao Kakarla	918019797440	-3,114	-2,018	-3,114	2026-09-29	0	17,577	20	Owes	Not called							
+Syed Amjad	919989630084	-2,980	-2,980	-2,980	2026-09-29	0	1,650	7	Owes	Not called							
+Kranthikumar Ganji	917995075805	-2,679	-819	-2,679	2026-09-29	0	38,147	26	Owes	Not called							
+Naveen Kumar	919542755380	-2,677	201	1,426	2026-09-29	0	142,094	109	Owes	Not called							
+Ramanna Lingala	919515358264	-2,630	-	-	2026-08-07	53	132,451	99	Owes - inactive	Not called							
+Ravi Vadde	916281394605	-2,619	-	-	2026-06-13	108	3,540	5	Owes - inactive	Not called							
+Gangaram Hussain	918074267194	-2,436	-	-	2026-07-11	80	4,590	9	Owes - inactive	Not called							
+Karrolla Narsimlu	919390882487	-2,405	-2,405	-2,405	2026-09-29	0	-	4	Owes	Not called							
+Zubair	919700865259	-2,340	-779	1,763	2026-09-29	0	174,786	152	Owes	Not called							
+Suresh Velpula	919550766477	-2,298	-	-	2026-07-23	68	81,473	64	Owes - inactive	Not called							
+Vikram S	917036653602	-2,283	-	-	2026-06-25	96	931	10	Owes - inactive	Not called							
+Vijay Kumar	918247492945	-2,250	-	-	2026-07-03	88	-	20	Owes - inactive	Not called							
+shaik Nazeer	916309307155	-1,963	-	-	2026-08-12	48	4,104	11	Owes - inactive	Not called							
+Abdul Ayub	917337592509	-1,823	-1,524	-2,597	2026-09-29	0	251,989	162	Owes	Not called							
+namala srinath	919177777079	-1,514	-2,368	249	2026-09-28	1	45,449	42	Owes	Not called							
+KUMAR PAGIDIPALLY	919703003400	-1,444	-	-	2026-07-25	66	51,825	58	Owes - inactive	Not called							
+Mohammed Akber	919885019916	-1,300	-	-	2026-06-15	106	-	2	Owes - inactive	Not called							
+Chowdam suresh	918309258382	-1,270	-	-	2026-08-08	52	-	2	Owes - inactive	Not called							
+Mahender Mahender	917337552927	-1,255	-1,255	-1,255	2026-09-29	0	392	3	Owes	Not called							
+Hussain	917989411899	-1,186	222	966	2026-09-28	1	37,849	47	Owes	Not called							
+Thammisetty Chandar shekhar	917675879650	-1,095	-	-1,095	2026-09-16	13	10,831	11	Owes - inactive	Not called							
+RANJITH KUMAR	918367682241	-1,065	-	-	2026-06-07	114	58,903	42	Owes - inactive	Not called							
+P Yadaiha	918096600348	-800	-800	-800	2026-09-29	0	700	3	Owes	Not called							
+Jagadesh Kumar	919392397927	-750	-750	-750	2026-09-29	0	-	1	Owes	Not called							
+YAKANNA	917416440603	-589	-	8,651	2026-09-03	26	24,801	32	Owes - inactive	Not called							
+Parmesh Diwakar	918639965866	-559	-	-	2026-07-21	70	32,332	34	Owes - inactive	Not called							
+Jahangir	917995955496	-419	-	-	2026-08-04	56	778	2	Owes - inactive	Not called							
+Rathod rajesh	916302048171	-398	-	-	2026-07-20	71	7,185	5	Owes - inactive	Not called							
+palemDattu	917981786481	-342	-	-	2026-06-30	91	20,261	11	Owes - inactive	Not called							
+Hrushikesh Bhoi	917815058688	-342	-	-	2026-08-17	43	3,037	8	Owes - inactive	Not called							
+Surneddy Sateesh	919912172428	-295	-	-295	2026-09-11	18	2,625	10	Owes - inactive	Not called							
+Jingirala Naresh	917093347040	-290	-	-	2026-07-31	60	-	4	Owes - inactive	Not called							
+Shaik Imran	916304939439	-290	-	-290	2026-09-07	22	650	2	Owes - inactive	Not called							
+M Naveen	918309800583	-175	-	-	2026-07-23	68	-	1	Owes - inactive	Not called							
+Adaka anjanikumar	917286833965	-131	-	-	2026-08-19	41	11,794	12	Owes - inactive	Not called							
+Gopi Rapelli	918985810131	-59	-	-	2026-06-22	99	17,396	12	Owes - inactive	Not called							
+Mohammed Haji	919676517816	-10	-	1,700	2026-08-31	29	2,450	6	Owes - inactive	Not called							
+RajaNarendra	919966404593	-	-	-	2026-07-23	68	34,903	76	Settled	Not called							
+Ashok Telugu	918790155259	-	-	-	2026-08-20	40	63,560	72	Settled	Not called							
+Nikith Rathla	918309123154	-	-	-	2026-08-09	51	3,786	10	Settled	Not called							
+SHAIK Hazazoddin	917793970903	1	-	-	2026-06-05	116	1	1	Payable	Not called							
+Saddam Shaik	916302532201	5	-	5	2026-09-17	12	-	2	Payable	Not called							
+Makkala Rajmohan	917330083884	52	-	52	2026-09-07	22	3,626	4	Payable	Not called							
+Sunchu vinod	917997215181	114	284	114	2026-09-24	5	10,237	8	Payable	Not called							
+Naasiruddin	918125742002	157	-	-	2026-05-13	139	5,694	7	Payable	Not called							
+KIRAN Bhukya	918639295502	172	-	-34	2026-08-31	29	16,612	10	Payable	Not called							
+Akhil	919381512427	212	-	-	2026-07-23	68	30,990	47	Payable	Not called							
+vamshi krishna	919959610737	250	-	-	2026-05-06	146	-	1	Payable	Not called							
+Sanjay Reddy	919032159594	254	-	-	2026-07-20	71	107,176	83	Payable	Not called							
+Madhu Babu M	917981548488	600	-	-	2026-06-09	112	1,500	9	Payable	Not called							
+chandraya chandu	919966918255	635	-	265	2026-09-01	28	-	2	Payable	Not called							
+Ramprasad. M	919704670046	677	-	-	2026-08-07	53	99,529	97	Payable	Not called							
+vijay kumar koduri	919701103128	702	505	2,352	2026-09-27	2	37,804	46	Payable	Not called							
+Akhil.K	919912123930	725	-	-	2026-06-15	106	-	1	Payable	Not called							
+kolanooru srinivas	916305528894	750	-	-	2026-08-24	36	8,756	8	Payable	Not called							
+Madan	919966808021	812	-581	812	2026-09-29	0	11,627	13	Payable	Not called							
+NARENDRA KRISHNA	917013420500	990	-	-	2026-08-14	46	-	3	Payable	Not called							
+patnam Vimal Kumar	918019146494	1,054	-	1,633	2026-09-10	19	93,429	127	Payable	Not called							
+Ahmed Ali	916300175226	1,110	-	-	2026-07-17	74	-	3	Payable	Not called							
+AMER MOHAMMAD	919392961297	1,208	-2,268	4,718	2026-09-29	0	48,649	97	Payable	Not called							
+Sk.hameed	919390013726	1,350	-	-	2026-07-01	90	-	2	Payable	Not called							
+Sai Kalyan.K	917780665719	1,392	-	-	2026-08-07	53	26,159	11	Payable	Not called							
+Harish  Chakali	919398132619	1,470	-	-	2026-06-24	97	-	12	Payable	Not called							
+Narendar ganji	919581058948	1,527	-2,309	3,729	2026-09-29	0	113,384	144	Payable	Not called							
+Narsimhala lokesh	916304355329	1,703	-	-	2026-08-07	53	8,619	6	Payable	Not called							
+Balaswamy Banda	918466806645	2,150	-	-	2026-05-16	136	62,962	25	Payable	Not called							
+sathish	919160324926	2,205	-	-	2026-06-16	105	3,250	7	Payable	Not called							
+Degala Kiran	916281250626	2,642	-	-	2026-06-19	102	91,306	54	Payable	Not called							
+Kishore	919154562080	2,880	-2,640	1,830	2026-09-28	1	73,492	115	Payable	Not called							
+Shiva	919908551833	3,829	-	-	2026-05-15	137	37,695	19	Payable	Not called							
+Ganesh D	919010074639	4,198	-	-	2026-05-07	145	5,793	4	Payable	Not called							
+Suresh ORSU	916305369824	4,475	1,105	4,475	2026-09-28	1	-	15	Payable	Not called							
+GUNDELI RAJESH	918328074187	4,554	-	-	2026-05-12	140	4,805	6	Payable	Not called							
+Sanjiv shahu	919863634053	4,698	4,698	4,698	2026-09-29	0	5,624	2	Payable	Not called							
+Shiva Mahesh	919182621862	5,300	-35	-840	2026-09-29	0	12,861	140	Payable	Not called							
+Venkat Reddy Gavinolla	919959958523	6,212	1,969	-4,114	2026-09-29	0	84,968	145	Payable	Not called							
+Siva ram	919603997230	6,730	-	-	2026-07-31	60	-	9	Payable	Not called							
+Thalari Naveen	917013360904	7,055	-	-	2026-08-14	46	-	14	Payable	Not called							
+Syed Yakub	918247203721	7,590	-1,205	-860	2026-09-28	1	-25,500	54	Payable	Not called							
+Rajesh Gowla	919177266821	9,225	-270	3,635	2026-09-29	0	-27,500	50	Payable	Not called							
+Rajashekar Kanigeri	917993075166	9,453	836	4,788	2026-09-29	0	73,956	145	Payable	Not called							
+BHANUPRASAD	919676762956	11,422	2,682	8,575	2026-09-25	4	14,465	111	Payable	Not called							
+Fayaz	917569959099	19,810	-1,150	-1,175	2026-09-28	1	-41,500	56	Payable	Not called							
+Rajesh Kommula	919346358825	20,985	2,120	8,615	2026-09-29	0	-	49	Payable	Not called							
+Ashok sindhe	918008943824	22,805	-	-	2026-08-21	39	-	26	Payable	Not called							
+GAVINOLLA	917893526352	24,716	199	1,402	2026-09-28	1	167,133	132	Payable	Not called							
+Saleem ali khan	919948622262	30,510	-	4,270	2026-09-11	18	-	51	Payable	Not called							
+Vinod jinde	919848488060	40,600	-	-	2026-08-13	47	-	42	Payable	Not called							
+Harish	917330144127	41,045	1,910	13,640	2026-09-28	1	-	63	Payable	Not called							
+Mohammed	919700124825	56,995	3,820	7,785	2026-09-29	0	-	53	Payable	Not called							
+																	
+Notes: Net balance = sum of daily "balance" per driver (earnings + fees + MRK earning − cash − QR − rent + old payable). Last 7/30 days are relative to the as-of date (latest duty date in data). Net balances under ₹1 are treated as settled (rounding dust). Sorted by highest amount owed at build time.																	Driver Collection Summary																	
+Negative balance = driver owes company · Positive = payable to driver · Balances are summed from the Data sheet																	
+																	
+As-of date	2026-09-29																
+Inactive threshold (days)	3	← editable input															
+																	
+To collect (₹)			Drivers owing			Owing & inactive (₹)			Drivers called	Follow-ups due							
+₹732,562			121			₹409,032			0	0							
+Owing & inactive (drivers)			Payable to drivers (₹)			Net position (₹)			Promised to pay (₹)								
+73			₹370,006			-₹362,556			-								
+CALL LOG (orange columns K–Q): update after each call. Example → Called - promised to pay | 2026-09-29 | "Says vehicle was in garage; will pay part on Friday" | 2026-10-03 | 5000 | 2026-10-03 | Ravi																	
+																	
+Driver	User ID	Net balance (₹)	Last 7 days (₹)	Last 30 days (₹)	Last duty date	Days since duty	Paid in: cash+QR (₹)	Duty days	Status	Call status	Last call date	Driver response / call summary	Promise-to-pay date	Promised amount (₹)	Next follow-up date	Called by	Follow-up
+komagala sandeep	919553002521	-19,451	-750	-10,927	2026-09-23	6	142,053	69	Owes - inactive	Not called							
+SIDDULA  Devaraju	919618124353	-18,070	-	-	2026-07-06	85	4,300	49	Owes - inactive	Not called							
+Md Asraar	918919985167	-16,680	-	-	2026-07-05	86	4,000	45	Owes - inactive	Not called							
+Hariprasad	919110568788	-16,669	-2,765	-5,341	2026-09-29	0	20,513	83	Owes	Not called							
+kishore ponnala	919966085545	-16,455	-	-750	2026-08-31	29	3,465	42	Owes - inactive	Not called							
+karnam Sri ram	918978164650	-16,341	-	-	2026-08-18	42	14,066	33	Owes - inactive	Not called							
+Srikanth Sudagani	917285952325	-15,450	-3,431	-12,261	2026-09-29	0	55,729	42	Owes	Not called							
+praveen	919866246428	-15,351	-5,406	-11,553	2026-09-29	0	211,674	82	Owes	Not called							
+Sai ram kakarala	918341449055	-14,966	-	-11,480	2026-09-20	9	11,546	31	Owes - inactive	Not called							
+Tuljaram B	919492260887	-14,904	-1,486	-2,767	2026-09-29	0	44,733	99	Owes	Not called							
+Ganesh.J	918999510296	-14,279	-	-	2026-08-30	30	22,150	114	Owes - inactive	Not called							
+Ganapathi A	919676810191	-12,995	-	-	2026-08-12	48	3,100	66	Owes - inactive	Not called							
+nakka sridhar	918977209648	-12,853	-3,340	-5,154	2026-09-29	0	12,468	55	Owes	Not called							
+Jeripothula Narsing	918790423117	-12,220	-1,929	-7,834	2026-09-27	2	18,344	47	Owes	Not called							
+G.SHIVA	919160676202	-12,186	-1,856	-2,375	2026-09-29	0	57,723	116	Owes	Not called							
+Mohammed Qadeer	919121098252	-11,313	-1,747	-2,003	2026-09-29	0	14,011	50	Owes	Not called							
+Bharath jangile	917569965720	-11,303	-1,905	-3,942	2026-09-29	0	85,243	57	Owes	Not called							
+Ramakrishna chary	919640072180	-11,198	-	-	2026-07-19	72	34,939	39	Owes - inactive	Not called							
+Suresh.G	918500073120	-10,766	-279	-1,596	2026-09-29	0	94,778	123	Owes	Not called							
+Rakesh	919346701158	-10,585	-	-	2026-07-16	75	56,801	81	Owes - inactive	Not called							
+Raju Gaddamidhi	916304479717	-10,537	-2,772	-10,537	2026-09-29	0	16,837	20	Owes	Not called							
+Rajendra	918919345529	-10,488	-698	-1,371	2026-09-29	0	32,688	58	Owes	Not called							
+GYARA sandeep	918712131505	-9,967	-2,370	-6,887	2026-09-29	0	38,325	31	Owes	Not called							
+Sajja	918317540237	-9,865	-	-	2026-08-10	50	-	54	Owes - inactive	Not called							
+t Vijay kumar	918341131205	-9,605	-3,450	-380	2026-09-29	0	19,195	69	Owes	Not called							
+Dakuri Naveen	919059040317	-9,242	-2,196	-3,575	2026-09-29	0	12,698	82	Owes	Not called							
+m.avinash	919618145217	-8,862	-3,710	-7,510	2026-09-29	0	34,481	38	Owes	Not called							
+Chandrashekhar V	917330776377	-8,841	-265	890	2026-09-29	0	50,552	146	Owes	Not called							
+chappidi premsagar	917075718515	-8,699	-	-3,932	2026-09-13	16	19,895	33	Owes - inactive	Not called							
+MOODU Nagaraju	919866476131	-8,680	-	-6,110	2026-09-09	20	-	14	Owes - inactive	Not called							
+Kalyan Chakravarthy	917013027181	-8,516	1,083	-7,543	2026-09-29	0	39,871	43	Owes	Not called							
+Ramanam Sattibabu	919949546589	-8,442	-2,996	-8,442	2026-09-29	0	22,756	26	Owes	Not called							
+Suresh babu	918985541889	-8,264	-	-	2026-06-30	91	75,879	55	Owes - inactive	Not called							
+BALARAJU arukali	918639939055	-8,185	-2,845	-8,185	2026-09-29	0	3,200	25	Owes	Not called							
+CHANDRA SHEKAR	919390575503	-8,124	-	-	2026-05-15	137	9,047	13	Owes - inactive	Not called							
+Parmeshwar Mane	919550834485	-8,091	-	-	2026-06-29	92	28,077	20	Owes - inactive	Not called							
+SHAFIYODDINN	918374217768	-7,965	-	-	2026-07-17	74	9,850	60	Owes - inactive	Not called							
+Arbas Mohammad	919705060028	-7,870	-	-	2026-07-04	87	-	21	Owes - inactive	Not called							
+Krishna.D	919014145260	-7,838	-1,398	-5,565	2026-09-29	0	87,368	60	Owes	Not called							
+Nandagiri	919618789711	-7,345	-	-70	2026-09-16	13	4,450	70	Owes - inactive	Not called							
+Srujan Kumar	919133918852	-7,118	-	-	2026-08-19	41	14,709	32	Owes - inactive	Not called							
+Kulpagur Shiva	918466823597	-7,107	-	-7,107	2026-09-22	7	2,280	12	Owes - inactive	Not called							
+Akula Anil	917730887830	-7,078	-	-	2026-08-27	33	22,812	61	Owes - inactive	Not called							
+veeramreddy manikanta	917893528830	-7,054	-	-2,192	2026-09-21	8	40,756	85	Owes - inactive	Not called							
+Mutyam P	919381149698	-6,705	-	-	2026-08-21	39	1,220	17	Owes - inactive	Not called							
+Belida Shiva Krishan	919347465842	-6,700	-	-	2026-08-21	39	14,600	107	Owes - inactive	Not called							
+Gangadhar	919494753734	-6,689	-	-	2026-05-31	121	17,099	27	Owes - inactive	Not called							
+Vinod Ramachandra	919886639043	-6,688	-	-	2026-06-25	96	8,976	20	Owes - inactive	Not called							
+Hemanth chary	918790758128	-6,465	-	-	2026-08-14	46	-	12	Owes - inactive	Not called							
+Akkapelli Tharun	919652668152	-6,295	-	-	2026-07-17	74	23,411	23	Owes - inactive	Not called							
+NagendraBabu	919989354388	-6,173	-	-	2026-06-07	114	7,836	27	Owes - inactive	Not called							
+P MANOJ kumar	919951994461	-5,978	-	-	2026-07-12	79	43,992	60	Owes - inactive	Not called							
+Pavan Narala	918897834538	-5,727	-	-	2026-07-12	79	62,000	77	Owes - inactive	Not called							
+Ganesh Pilli	919666240385	-5,689	-	-	2026-07-19	72	11,719	27	Owes - inactive	Not called							
+Sai Kumar Chittepu	919390090466	-5,681	-452	-3,509	2026-09-29	0	237,465	156	Owes	Not called							
+Mohan 	918897004440	-5,676	-390	-1,685	2026-09-29	0	83,198	142	Owes	Not called							
+Madduru siva	919148514175	-5,483	170	555	2026-09-29	0	14,217	76	Owes	Not called							
+R santhosh	919346781099	-5,363	-	-	2026-05-13	139	6,633	17	Owes - inactive	Not called							
+Shrikant Ambesange	917028044765	-5,316	-	-	2026-08-26	34	35,015	35	Owes - inactive	Not called							
+Balraj.K	919391873761	-5,316	26	-1,443	2026-09-29	0	153,967	133	Owes	Not called							
+G ANANDA kumar	918142126593	-5,143	-2,888	-2,548	2026-09-29	0	46,813	46	Owes	Not called							
+Pranay nath Rathod	919491989963	-5,089	-	-	2026-06-11	110	18,769	19	Owes - inactive	Not called							
+Sameer MD	917997476514	-4,997	-	-1,120	2026-09-21	8	184,900	144	Owes - inactive	Not called							
+Rasheed Mohammad	916309199597	-4,912	-88	2,432	2026-09-29	0	58,955	70	Owes	Not called							
+Sarathkumar.B	919581026662	-4,867	-	-	2026-08-12	48	15,765	48	Owes - inactive	Not called							
+ABDUL	919542774623	-4,689	-	-1,311	2026-09-14	15	226,266	141	Owes - inactive	Not called							
+raj	919121700387	-4,648	1,405	9,410	2026-09-29	0	135,232	138	Owes	Not called							
+Janaki Ram	919246142292	-4,568	-1,759	-3,023	2026-09-29	0	32,632	85	Owes	Not called							
+Bhaskar Babburi	919515232833	-4,550	-	-	2026-05-14	138	3,900	13	Owes - inactive	Not called							
+Srisailam k	918465036103	-4,390	-1,565	-4,390	2026-09-29	0	2,000	29	Owes	Not called							
+SHARAVATH Vamshi	919014830167	-4,242	-	-434	2026-08-31	29	45,019	20	Owes - inactive	Not called							
+Gopala krishna V	916301268836	-4,141	-	1,639	2026-09-07	22	135,349	127	Owes - inactive	Not called							
+Venkateswara rao	919177764145	-4,001	-	-	2026-08-24	36	53,324	109	Owes - inactive	Not called							
+Faizulla Baig	919949914282	-3,925	-	-4,347	2026-09-14	15	29,915	20	Owes - inactive	Not called							
+Devara	916304158829	-3,678	-	-	2026-06-17	104	9,749	43	Owes - inactive	Not called							
+Srinivas Reddy	918328080186	-3,600	-850	-3,600	2026-09-29	0	11,165	28	Owes	Not called							
+Suryachandra ra	918790795166	-3,543	1,785	926	2026-09-29	0	151,465	156	Owes	Not called							
+Md AMER Younus	919136491627	-3,542	-2,437	-3,542	2026-09-29	0	11,848	11	Owes	Not called							
+Mohammed Younus khan	919063604475	-3,529	-3,015	-3,529	2026-09-29	0	10,572	18	Owes	Not called							
+Saikumar Gattu	918340089285	-3,510	-	-	2026-08-18	42	1,750	10	Owes - inactive	Not called							
+Faizan	919700764003	-3,460	-	-	2026-07-16	75	3,250	23	Owes - inactive	Not called							
+Akkireddi Umamahesh	919703574837	-3,269	-720	-4,028	2026-09-29	0	72,426	35	Owes	Not called							
+Afroz Mohammed	917207121993	-3,263	-	-	2026-08-05	55	14,237	15	Owes - inactive	Not called							
+Vijay kumar	919618682288	-3,169	-531	-4,751	2026-09-29	0	37,148	47	Owes	Not called							
+Jagadeeshrao Kakarla	918019797440	-3,114	-2,018	-3,114	2026-09-29	0	17,577	20	Owes	Not called							
+Syed Amjad	919989630084	-2,980	-2,980	-2,980	2026-09-29	0	1,650	7	Owes	Not called							
+Kranthikumar Ganji	917995075805	-2,679	-819	-2,679	2026-09-29	0	38,147	26	Owes	Not called							
+Naveen Kumar	919542755380	-2,677	201	1,426	2026-09-29	0	142,094	109	Owes	Not called							
+Ramanna Lingala	919515358264	-2,630	-	-	2026-08-07	53	132,451	99	Owes - inactive	Not called							
+Ravi Vadde	916281394605	-2,619	-	-	2026-06-13	108	3,540	5	Owes - inactive	Not called							
+Gangaram Hussain	918074267194	-2,436	-	-	2026-07-11	80	4,590	9	Owes - inactive	Not called							
+Karrolla Narsimlu	919390882487	-2,405	-2,405	-2,405	2026-09-29	0	-	4	Owes	Not called							
+Zubair	919700865259	-2,340	-779	1,763	2026-09-29	0	174,786	152	Owes	Not called							
+Suresh Velpula	919550766477	-2,298	-	-	2026-07-23	68	81,473	64	Owes - inactive	Not called							
+Vikram S	917036653602	-2,283	-	-	2026-06-25	96	931	10	Owes - inactive	Not called							
+Vijay Kumar	918247492945	-2,250	-	-	2026-07-03	88	-	20	Owes - inactive	Not called							
+shaik Nazeer	916309307155	-1,963	-	-	2026-08-12	48	4,104	11	Owes - inactive	Not called							
+Abdul Ayub	917337592509	-1,823	-1,524	-2,597	2026-09-29	0	251,989	162	Owes	Not called							
+namala srinath	919177777079	-1,514	-2,368	249	2026-09-28	1	45,449	42	Owes	Not called							
+KUMAR PAGIDIPALLY	919703003400	-1,444	-	-	2026-07-25	66	51,825	58	Owes - inactive	Not called							
+Mohammed Akber	919885019916	-1,300	-	-	2026-06-15	106	-	2	Owes - inactive	Not called							
+Chowdam suresh	918309258382	-1,270	-	-	2026-08-08	52	-	2	Owes - inactive	Not called							
+Mahender Mahender	917337552927	-1,255	-1,255	-1,255	2026-09-29	0	392	3	Owes	Not called							
+Hussain	917989411899	-1,186	222	966	2026-09-28	1	37,849	47	Owes	Not called							
+Thammisetty Chandar shekhar	917675879650	-1,095	-	-1,095	2026-09-16	13	10,831	11	Owes - inactive	Not called							
+RANJITH KUMAR	918367682241	-1,065	-	-	2026-06-07	114	58,903	42	Owes - inactive	Not called							
+P Yadaiha	918096600348	-800	-800	-800	2026-09-29	0	700	3	Owes	Not called							
+Jagadesh Kumar	919392397927	-750	-750	-750	2026-09-29	0	-	1	Owes	Not called							
+YAKANNA	917416440603	-589	-	8,651	2026-09-03	26	24,801	32	Owes - inactive	Not called							
+Parmesh Diwakar	918639965866	-559	-	-	2026-07-21	70	32,332	34	Owes - inactive	Not called							
+Jahangir	917995955496	-419	-	-	2026-08-04	56	778	2	Owes - inactive	Not called							
+Rathod rajesh	916302048171	-398	-	-	2026-07-20	71	7,185	5	Owes - inactive	Not called							
+palemDattu	917981786481	-342	-	-	2026-06-30	91	20,261	11	Owes - inactive	Not called							
+Hrushikesh Bhoi	917815058688	-342	-	-	2026-08-17	43	3,037	8	Owes - inactive	Not called							
+Surneddy Sateesh	919912172428	-295	-	-295	2026-09-11	18	2,625	10	Owes - inactive	Not called							
+Jingirala Naresh	917093347040	-290	-	-	2026-07-31	60	-	4	Owes - inactive	Not called							
+Shaik Imran	916304939439	-290	-	-290	2026-09-07	22	650	2	Owes - inactive	Not called							
+M Naveen	918309800583	-175	-	-	2026-07-23	68	-	1	Owes - inactive	Not called							
+Adaka anjanikumar	917286833965	-131	-	-	2026-08-19	41	11,794	12	Owes - inactive	Not called							
+Gopi Rapelli	918985810131	-59	-	-	2026-06-22	99	17,396	12	Owes - inactive	Not called							
+Mohammed Haji	919676517816	-10	-	1,700	2026-08-31	29	2,450	6	Owes - inactive	Not called							
+RajaNarendra	919966404593	-	-	-	2026-07-23	68	34,903	76	Settled	Not called							
+Ashok Telugu	918790155259	-	-	-	2026-08-20	40	63,560	72	Settled	Not called							
+Nikith Rathla	918309123154	-	-	-	2026-08-09	51	3,786	10	Settled	Not called							
+SHAIK Hazazoddin	917793970903	1	-	-	2026-06-05	116	1	1	Payable	Not called							
+Saddam Shaik	916302532201	5	-	5	2026-09-17	12	-	2	Payable	Not called							
+Makkala Rajmohan	917330083884	52	-	52	2026-09-07	22	3,626	4	Payable	Not called							
+Sunchu vinod	917997215181	114	284	114	2026-09-24	5	10,237	8	Payable	Not called							
+Naasiruddin	918125742002	157	-	-	2026-05-13	139	5,694	7	Payable	Not called							
+KIRAN Bhukya	918639295502	172	-	-34	2026-08-31	29	16,612	10	Payable	Not called							
+Akhil	919381512427	212	-	-	2026-07-23	68	30,990	47	Payable	Not called							
+vamshi krishna	919959610737	250	-	-	2026-05-06	146	-	1	Payable	Not called							
+Sanjay Reddy	919032159594	254	-	-	2026-07-20	71	107,176	83	Payable	Not called							
+Madhu Babu M	917981548488	600	-	-	2026-06-09	112	1,500	9	Payable	Not called							
+chandraya chandu	919966918255	635	-	265	2026-09-01	28	-	2	Payable	Not called							
+Ramprasad. M	919704670046	677	-	-	2026-08-07	53	99,529	97	Payable	Not called							
+vijay kumar koduri	919701103128	702	505	2,352	2026-09-27	2	37,804	46	Payable	Not called							
+Akhil.K	919912123930	725	-	-	2026-06-15	106	-	1	Payable	Not called							
+kolanooru srinivas	916305528894	750	-	-	2026-08-24	36	8,756	8	Payable	Not called							
+Madan	919966808021	812	-581	812	2026-09-29	0	11,627	13	Payable	Not called							
+NARENDRA KRISHNA	917013420500	990	-	-	2026-08-14	46	-	3	Payable	Not called							
+patnam Vimal Kumar	918019146494	1,054	-	1,633	2026-09-10	19	93,429	127	Payable	Not called							
+Ahmed Ali	916300175226	1,110	-	-	2026-07-17	74	-	3	Payable	Not called							
+AMER MOHAMMAD	919392961297	1,208	-2,268	4,718	2026-09-29	0	48,649	97	Payable	Not called							
+Sk.hameed	919390013726	1,350	-	-	2026-07-01	90	-	2	Payable	Not called							
+Sai Kalyan.K	917780665719	1,392	-	-	2026-08-07	53	26,159	11	Payable	Not called							
+Harish  Chakali	919398132619	1,470	-	-	2026-06-24	97	-	12	Payable	Not called							
+Narendar ganji	919581058948	1,527	-2,309	3,729	2026-09-29	0	113,384	144	Payable	Not called							
+Narsimhala lokesh	916304355329	1,703	-	-	2026-08-07	53	8,619	6	Payable	Not called							
+Balaswamy Banda	918466806645	2,150	-	-	2026-05-16	136	62,962	25	Payable	Not called							
+sathish	919160324926	2,205	-	-	2026-06-16	105	3,250	7	Payable	Not called							
+Degala Kiran	916281250626	2,642	-	-	2026-06-19	102	91,306	54	Payable	Not called							
+Kishore	919154562080	2,880	-2,640	1,830	2026-09-28	1	73,492	115	Payable	Not called							
+Shiva	919908551833	3,829	-	-	2026-05-15	137	37,695	19	Payable	Not called							
+Ganesh D	919010074639	4,198	-	-	2026-05-07	145	5,793	4	Payable	Not called							
+Suresh ORSU	916305369824	4,475	1,105	4,475	2026-09-28	1	-	15	Payable	Not called							
+GUNDELI RAJESH	918328074187	4,554	-	-	2026-05-12	140	4,805	6	Payable	Not called							
+Sanjiv shahu	919863634053	4,698	4,698	4,698	2026-09-29	0	5,624	2	Payable	Not called							
+Shiva Mahesh	919182621862	5,300	-35	-840	2026-09-29	0	12,861	140	Payable	Not called							
+Venkat Reddy Gavinolla	919959958523	6,212	1,969	-4,114	2026-09-29	0	84,968	145	Payable	Not called							
+Siva ram	919603997230	6,730	-	-	2026-07-31	60	-	9	Payable	Not called							
+Thalari Naveen	917013360904	7,055	-	-	2026-08-14	46	-	14	Payable	Not called							
+Syed Yakub	918247203721	7,590	-1,205	-860	2026-09-28	1	-25,500	54	Payable	Not called							
+Rajesh Gowla	919177266821	9,225	-270	3,635	2026-09-29	0	-27,500	50	Payable	Not called							
+Rajashekar Kanigeri	917993075166	9,453	836	4,788	2026-09-29	0	73,956	145	Payable	Not called							
+BHANUPRASAD	919676762956	11,422	2,682	8,575	2026-09-25	4	14,465	111	Payable	Not called							
+Fayaz	917569959099	19,810	-1,150	-1,175	2026-09-28	1	-41,500	56	Payable	Not called							
+Rajesh Kommula	919346358825	20,985	2,120	8,615	2026-09-29	0	-	49	Payable	Not called							
+Ashok sindhe	918008943824	22,805	-	-	2026-08-21	39	-	26	Payable	Not called							
+GAVINOLLA	917893526352	24,716	199	1,402	2026-09-28	1	167,133	132	Payable	Not called							
+Saleem ali khan	919948622262	30,510	-	4,270	2026-09-11	18	-	51	Payable	Not called							
+Vinod jinde	919848488060	40,600	-	-	2026-08-13	47	-	42	Payable	Not called							
+Harish	917330144127	41,045	1,910	13,640	2026-09-28	1	-	63	Payable	Not called							
+Mohammed	919700124825	56,995	3,820	7,785	2026-09-29	0	-	53	Payable	Not called							
+																	
+Notes: Net balance = sum of daily "balance" per driver (earnings + fees + MRK earning − cash − QR − rent + old payable). Last 7/30 days are relative to the as-of date (latest duty date in data). Net balances under ₹1 are treated as settled (rounding dust). Sorted by highest amount owed at build time.																	
